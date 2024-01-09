@@ -3,6 +3,10 @@ print("run python")
 
 # COMMAND ----------
 
+print('RUN PYTHON ')
+
+# COMMAND ----------
+
 # MAGIC %scala
 # MAGIC print("Run SCALA")
 
@@ -10,7 +14,3 @@ print("run python")
 
 # MAGIC %sql
 # MAGIC -- select "RUN SQL"
-
-# COMMAND ----------
-
-# MAGIC %md # TITLE
